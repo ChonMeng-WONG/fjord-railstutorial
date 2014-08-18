@@ -12,6 +12,7 @@ group :development, :test do
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.6'
   gem 'bcrypt-ruby', '3.1.2'
+  gem 'minitest'
 end
 
 group :test do
